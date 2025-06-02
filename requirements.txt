@@ -1,0 +1,6 @@
+azure-ai-projects
+azure-identity
+azure-monitor-opentelemetry
+opentelemetry-sdk
+pydantic
+pydantic-settings
